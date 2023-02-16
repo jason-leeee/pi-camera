@@ -1,0 +1,2 @@
+picamera2==0.3.8
+opencv-python==3.4.13.47
